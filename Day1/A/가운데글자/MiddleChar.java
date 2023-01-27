@@ -1,6 +1,5 @@
-package 가운데글자;
+package Day1.A.가운데글자;
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class MiddleChar {
     public static void main(String[] args) {

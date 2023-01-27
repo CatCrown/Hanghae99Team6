@@ -1,4 +1,4 @@
-package 직사각별찍기;
+package Day1.A.직사각별찍기;
 // https://school.programmers.co.kr/learn/courses/30/lessons/12969
 
 // input : 5 3

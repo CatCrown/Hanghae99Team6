@@ -1,4 +1,4 @@
-package x만큼간격이있는.X;
+package Day1.A.X만큼간격이있는;
 //x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 리턴해야 합니다.
 //다음 제한 조건을 보고, 조건을 만족하는 함수, solution을 완성해주세요.
 /*
@@ -7,7 +7,6 @@ x : 2,	n : 5,	result : [2,4,6,8,10]
 
  */
 
-import java.util.Scanner;
 import java.util.Arrays;
 
 class Solution {
@@ -27,7 +26,7 @@ class Solution {
     }
 }
 
-// x만큼간격이있는.X
+// Day1.A.X
 //  - solution.java
 //  - data.txt (정보 담겨있음) -> x, n
 

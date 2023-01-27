@@ -1,9 +1,6 @@
-package 없는숫자만들기;
+package Day1.A.없는숫자만들기;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import java.util.Arrays;
 
 class Solution {
     public String solution(int a, int b) {

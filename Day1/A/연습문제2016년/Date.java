@@ -1,7 +1,5 @@
-package 연습문제2016년;
+package Day1.A.연습문제2016년;
 
-
-import java.util.Arrays;
 
 class Solution {
     public String solution(int a, int b) {
